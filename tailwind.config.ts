@@ -1,4 +1,4 @@
-import type { Config } from "tailwindcss";
+git remote -v Config } from "tailwindcss";
 
 const config: Config = {
   content: [
